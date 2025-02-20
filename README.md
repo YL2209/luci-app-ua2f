@@ -5,3 +5,5 @@
 如果在使用过程中发现问题可以提出lssues <br>
 在仓库 https://github.com/lucikap/luci-app-brukamen.git 中有更多好用的插件 <br>
 该仓库将不断维护，如果对你有帮助，不妨把小星星点亮
+
+## 适用于 UA2F v4.8.0 版本
